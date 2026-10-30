@@ -42,10 +42,10 @@ This project presents a comprehensive end-to-end data analysis of sales performa
 ## Dashboard Preview
 
 ### Page 1: Sales Overview & Trends
-![Sales Overview](images/dashboard_home.png)
+![Sales Overview](dashboard_home.png)
 
 ### Page 2: Best & Worst Sellers Analysis
-![Best Worst Sellers](images/best_worst_sellers.png)
+![Best Worst Sellers](best_worst_sellers.png)
 
 ---
 
