@@ -3,7 +3,7 @@
 ## Executive Summary
 This project presents a comprehensive end-to-end data analysis of sales performance for a pizza business operating over a full calendar year. Using **Power BI** and **DAX**, this interactive dashboard tracks key performance indicators (KPIs), identifies sales trends across daily and monthly cycles, analyzes product mix preferences, and classifies top and bottom-performing menu items to support data-driven business decision-making.
 
----
+
 
 ## Key Business Metrics (KPIs)
 - **Total Revenue:** $817.9K
